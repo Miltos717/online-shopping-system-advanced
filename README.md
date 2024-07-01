@@ -6,7 +6,7 @@
 > ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
 
 [![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
-
+  
 <h3>Things I code with</h3>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
