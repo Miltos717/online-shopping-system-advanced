@@ -16,7 +16,7 @@ interface TestViolations
     /**
      * Type.
      *
-     * @param string      $deletionType
+     * @param string     $deletionType
      * @param string      $labelpartner
      * @param string|null $serviceType
      *
