@@ -14,10 +14,10 @@ use Miltos\Model\DeletionCounter;
 interface TestViolations
 {
     /**
-     * type.
+     * Type.
      *
-     * @param string $deletionType
-     * @param string $labelpartner
+     * @param string      $deletionType
+     * @param string      $labelpartner
      * @param string|null $serviceType
      *
      * @return DeletionCounter|null
