@@ -13,16 +13,16 @@ use Miltos\Model\DeletionCounter;
  */
 interface TestViolations
 {
-    /**
-     * Type.
+   /**
+     * ScheduledTask constructor.
      *
-     * @param string     $deletionType
-     * @param string      $labelpartner
-     * @param string|null $serviceType
-     *
-     * @return DeletionCounter|null
-     * @throws NotSupported
-     */
+     * @param string $identifier
+     * @param string $identifierType
+     * @param string $taskType
+     * @param string|null $dataType
+     * @param int|null $timestamp
+     * @param string|null $metadata
+*/
     public function getDeletionCounter(
         string  $deletionType,
         string  $labelpartner,
